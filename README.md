@@ -1,23 +1,53 @@
-# 💫 About Me:
-
-I have successfully completed my Bachelor of Science (B.Sc.) degree from Dayanand College. Currently, I am pursuing a Master of Computer Applications (MCA) course to enhance my knowledge and skills in computer science and information technology. I am eager to learn new technologies, develop my technical abilities, and build a successful career in the IT field
-
-## 🌐 Socials:
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maheshmergu01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maheshmergu01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maheshmergu14@gmail.com)
-
-# 💻 Tech Stack:
-
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.shion.dev/api?username=MaheshMergu01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats-eight.vercel.app/?user=MaheshMergu01&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=MaheshMergu01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-[![](https://komarev.com/ghpvc/?username=MaheshMergu01&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Act as a premium digital identity designer, SVG motion artist, and senior developer-experience
+engineer. Upgrade my EXISTING GitHub Profile README repository into a distinctive, animated,
+burgundy-themed developer profile.
+IDENTITY
+Name: Sri Sushmita Dasari
+Positioning: AI/ML Engineer | Full-Stack Developer | Creative Technologist
+Education and achievements must be verified against my supplied resume and existing project
+files. Include B.Tech in Artificial Intelligence and Machine Learning at Aditya Engineering
+College and CGPA 9.10 only if verified. Feature Flipkart GRiD 7.0 — National Semi-Finalist and
+Myntra WeForShe HackerRamp 2026 — Top 100 teams only if verified by supplied evidence.
+FIRST: INSPECT
+1. Inspect the current repository, README.md, local assets, and available resume.
+2. Preserve accurate existing information and useful links.
+3. Do not create a duplicate repository.
+4. Do not invent awards, skills, dates, statistics, project results, or links.
+5. Never display my phone number anywhere. Do not extract or reconstruct it from my resume.
+ART DIRECTION
+Create a premium burgundy identity:
+midnight #10070C, dark wine #190B12, burgundy #451126, wine accent #701A3D, rose #C77B9B, pale
+rose #E5B5C7, ivory #F8F0F3.
+The result should feel cinematic, editorial, elegant, and technically sophisticated — not a
+generic template or a cluttered badge wall.
+CUSTOM ANIMATED SVG HERO
+Create a lightweight file such as assets/sushmita-hero.svg. Include my name, role line, subtle
+moving gradients, an animated SVG path, fine technical grid, restrained orbital geometry, and
+a glowing underline. Use SVG gradients, paths, masks, and SMIL animation where supported. Use
+unique IDs for SVG filters and gradients. Provide a polished static fallback if motion is
+disabled or unsupported.
+README SECTIONS
+1. Animated hero banner.
+2. Concise, authentic introduction.
+3. Verified achievements and certifications.
+4. Selected real projects with working repository or demo links.
+5. Skills grouped by category using verified technologies only.
+6. GitHub contribution heatmap.
+7. GitHub statistics only if a reliable service is available.
+8. Verified coding and professional profile links.
+9. Minimal animated SVG footer.
+HEATMAP AND STATISTICS
+Prefer genuine GitHub contribution data and reliable services. If live data is not practical,
+clearly label an illustration as decorative or demo data. Never fabricate contribution counts,
+language percentages, rankings, streaks, or activity. Never expose API tokens or secrets in
+public assets.
+TECHNICAL COMPATIBILITY
+GitHub sanitizes README HTML and does not execute arbitrary JavaScript or custom page CSS. Use
+GitHub-compatible Markdown, HTML, SVG, and image embeds. Do not rely on scripts, event
+handlers, custom CSS files, or iframes. Use relative asset paths where appropriate. Keep the
+README readable when animations are disabled and on mobile devices.
+QUALITY CONTROL
+- Create the actual SVG assets and edit the real README.md.
+- Validate SVG syntax and all relative paths.
+- Check every link and image.
+- Check all personal claims against supplied materials.
