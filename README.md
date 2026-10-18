@@ -51,3 +51,9 @@ QUALITY CONTROL
 - Validate SVG syntax and all relative paths.
 - Check every link and image.
 - Check all personal claims against supplied materials.
+- Confirm that my phone number does not appear anywhere.
+- Ensure there are no fake metrics or broken image cards.
+- Keep changes local; do not commit or push automatically.
+- Summarize changed files and explain how to preview and publish using GitHub Desktop.
+Do not stop at a plan or code snippets. Implement the complete README and supporting assets in
+the existing repository.
